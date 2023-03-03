@@ -1,0 +1,64 @@
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.csproj.AssemblyReference.cache
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.AssemblyInfoInputs.cache
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.AssemblyInfo.cs
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.csproj.CoreCompileInputs.cache
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.MvcApplicationPartsAssemblyInfo.cache
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\appsettings.Development.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\appsettings.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.exe
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.deps.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.runtimeconfig.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.pdb
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.HRM-Human.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.build.HRM-Human.props
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRM-Human.props
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRM-Human.props
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets.build.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets.development.json
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\scopedcss\bundle\HRM-Human.styles.css
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.csproj.CopyComplete
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\refint\HRM-Human.dll
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.pdb
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.genruntimeconfig.cache
+D:\ĐỀ ÁN\HRM-Human\HRM-Human\obj\Debug\net7.0\ref\HRM-Human.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\appsettings.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.exe
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.deps.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.runtimeconfig.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\HRM-Human.pdb
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.csproj.AssemblyReference.cache
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.AssemblyInfoInputs.cache
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.AssemblyInfo.cs
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.csproj.CoreCompileInputs.cache
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.HRM-Human.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.build.HRM-Human.props
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRM-Human.props
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRM-Human.props
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\scopedcss\bundle\HRM-Human.styles.css
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.csproj.CopyComplete
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\refint\HRM-Human.dll
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.pdb
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\HRM-Human.genruntimeconfig.cache
+C:\Users\pnggo\Downloads\HRM-Human\HRM-Human\HRM-Human\obj\Debug\net7.0\ref\HRM-Human.dll
